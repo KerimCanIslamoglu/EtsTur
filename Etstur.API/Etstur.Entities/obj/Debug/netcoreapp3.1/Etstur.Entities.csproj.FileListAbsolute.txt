@@ -1,0 +1,9 @@
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Entities\bin\Debug\netcoreapp3.1\Etstur.Entities.deps.json
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Entities\bin\Debug\netcoreapp3.1\Etstur.Entities.dll
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Entities\bin\Debug\netcoreapp3.1\Etstur.Entities.pdb
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Entities\obj\Debug\netcoreapp3.1\Etstur.Entities.csprojAssemblyReference.cache
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Entities\obj\Debug\netcoreapp3.1\Etstur.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Entities\obj\Debug\netcoreapp3.1\Etstur.Entities.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Entities\obj\Debug\netcoreapp3.1\Etstur.Entities.AssemblyInfo.cs
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Entities\obj\Debug\netcoreapp3.1\Etstur.Entities.dll
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Entities\obj\Debug\netcoreapp3.1\Etstur.Entities.pdb

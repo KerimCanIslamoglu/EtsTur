@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Etstur.DataAccess\Etstur.DataAccess.csproj" />
+    <ProjectReference Include="..\Etstur.Entities\Etstur.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,34 @@
+﻿@model UserModel
+@{
+    ViewData["Title"] = "CreateUser";
+}
+
+
+<div class="col-md-12">
+    <h1>Kullanıcı oluştur</h1>
+
+    <form method="post" asp-controller="Home" asp-action="CreateUser">
+        <div class="form-group">
+            <label for="firstName">İsim</label>
+            <input type="text" class="form-control" id="firstName" placeholder="İsim" asp-for="@Model.FirstName">
+        </div>
+        <div class="form-group">
+            <label for="lastName">Soyisim</label>
+            <input type="text" class="form-control" id="lastName" placeholder="Soyisim" asp-for="@Model.LastName">
+        </div>
+        <div class="form-group">
+            <label for="bloodType">Kan grubu</label>
+            <input type="text" class="form-control" id="bloodType" placeholder="Kan grubu" asp-for="@Model.BloodType">
+        </div>
+        <div class="form-group">
+            <label for="phoneNumber">Cep Telefonu</label>
+            <input type="text" class="form-control" id="phoneNumber" placeholder="Cep Telefonu" asp-for="@Model.PhoneNumber">
+        </div>
+        <div class="form-group">
+            <label for="address">Adres</label>
+            <input type="text" class="form-control" id="address" placeholder="Adres" asp-for="@Model.Address">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Kaydet</button>
+    </form>
+</div>

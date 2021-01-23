@@ -1,0 +1,15 @@
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\bin\Debug\netcoreapp3.1\Etstur.DataAccess.deps.json
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\bin\Debug\netcoreapp3.1\Etstur.DataAccess.dll
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\obj\Debug\netcoreapp3.1\Etstur.DataAccess.csprojAssemblyReference.cache
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\obj\Debug\netcoreapp3.1\Etstur.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\obj\Debug\netcoreapp3.1\Etstur.DataAccess.AssemblyInfo.cs
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\bin\Debug\netcoreapp3.1\Etstur.DataAccess.runtimeconfig.json
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\bin\Debug\netcoreapp3.1\Etstur.DataAccess.runtimeconfig.dev.json
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\obj\Debug\netcoreapp3.1\Etstur.DataAccess.genruntimeconfig.cache
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\bin\Debug\netcoreapp3.1\Etstur.DataAccess.pdb
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\bin\Debug\netcoreapp3.1\Etstur.Entities.dll
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\bin\Debug\netcoreapp3.1\Etstur.Entities.pdb
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\obj\Debug\netcoreapp3.1\Etstur.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\obj\Debug\netcoreapp3.1\Etstur.DataAccess.csproj.CopyComplete
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\obj\Debug\netcoreapp3.1\Etstur.DataAccess.dll
+C:\Users\kerim\source\repos\Etstur.API\Etstur.DataAccess\obj\Debug\netcoreapp3.1\Etstur.DataAccess.pdb

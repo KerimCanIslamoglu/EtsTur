@@ -1,0 +1,14 @@
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\bin\Debug\netcoreapp3.1\Etstur.Business.deps.json
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\bin\Debug\netcoreapp3.1\Etstur.Business.dll
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\bin\Debug\netcoreapp3.1\Etstur.Business.pdb
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\bin\Debug\netcoreapp3.1\Etstur.DataAccess.dll
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\bin\Debug\netcoreapp3.1\Etstur.Entities.dll
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\bin\Debug\netcoreapp3.1\Etstur.DataAccess.pdb
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\bin\Debug\netcoreapp3.1\Etstur.Entities.pdb
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\obj\Debug\netcoreapp3.1\Etstur.Business.csprojAssemblyReference.cache
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\obj\Debug\netcoreapp3.1\Etstur.Business.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\obj\Debug\netcoreapp3.1\Etstur.Business.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\obj\Debug\netcoreapp3.1\Etstur.Business.AssemblyInfo.cs
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\obj\Debug\netcoreapp3.1\Etstur.Business.csproj.CopyComplete
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\obj\Debug\netcoreapp3.1\Etstur.Business.dll
+C:\Users\kerim\source\repos\Etstur.API\Etstur.Business\obj\Debug\netcoreapp3.1\Etstur.Business.pdb
